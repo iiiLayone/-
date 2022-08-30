@@ -1,5 +1,8 @@
 # transformer (Attention is all you need)
 残差连接网络 N编码器重复几次 复制模块 d_model 表示每一层的输出的维度
+![image](https://github.com/iiiLayone/base-of-mgbert/blob/main/images/transformer.png)
+
+
 
 ## layer norm和batch norm  
 seq:sequence序列的长度n。 feat :feature 特征 
