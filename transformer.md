@@ -18,7 +18,8 @@ batch norm： 每次取一个特征把均值变为0方差变为1 二维中把每
 ![image](https://github.com/iiiLayone/base-of-mgbert/blob/main/images/layernorm%2Cbatchnorm.png)
 
 ### attention 注意力层
-![image]()
+
+![image](https://github.com/iiiLayone/base-of-mgbert/blob/main/images/attention11.png)
 
 注意力函数是一个将quary和一些key-value对映射成一个输出的函数，output是value的加权和，value和权重等价于key和quary的相似度。
 softmax是对每一行做softmax。
